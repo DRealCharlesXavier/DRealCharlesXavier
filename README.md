@@ -1,4 +1,4 @@
-<img src="https://github.com/DRealCharlesXavier/DRealCharlesXavier/blob/main/CHARLES%20XAVIER%20FULL%20STACK%20DEV.jpg?raw=true" alt="full stack dev" />
+<img src="https://github.com/DRealCharlesXavier/DRealCharlesXavier/blob/main/CHARLES%20XAVIER%20FULL%20STACK%20DEV.jpg?raw=true" alt="full stack dev" style="width: 100%; max-height: 50vh; object-fit: cover;" />
 
 
 
