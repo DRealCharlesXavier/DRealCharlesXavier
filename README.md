@@ -15,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://twitter.com/charlesxthe1" target="blank"><img src="https://img.shields.io/twitter/follow/charlesxthe1?logo=twitter&style=for-the-badge" alt="charlesxthe1" /></a> </p>
-
 <p align="left">
 <a href="https://twitter.com/charlesxthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlesxthe1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chukwuemeka-charles-eze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ chukwuemeka-charles-eze" height="30" width="40" /></a>
