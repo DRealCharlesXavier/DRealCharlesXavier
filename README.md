@@ -3,7 +3,7 @@
 
 
 <h1 >Hi there, I'm CHARLES XAVIER</h1>
-<h3>I am a Frontend Software Developer who loves anime and is dedicated to creating and scaling cutting-edge software solutions that empower businesses and enhance customer experiences.</h3>
+<h3>I am a Frontend Software Developer who loves anime 😊 and is dedicated to creating and scaling cutting-edge software solutions that empower businesses and enhance customer experiences.</h3>
 
 <h2> Skill's and Experience </h2>
 
