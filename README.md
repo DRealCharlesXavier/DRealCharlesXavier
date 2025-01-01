@@ -1,5 +1,4 @@
-<img src="https://github.com/DRealCharlesXavier/DRealCharlesXavier/blob/main/CHARLES%20XAVIER%20FULL%20STACK%20DEV.jpg?raw=true" alt="full stack dev" style="width: 100%; height: 60vh; object-fit: cover;" />
-
+<img src="https://github.com/DRealCharlesXavier/DRealCharlesXavier/blob/main/CHARLES%20XAVIER%203.jpg?raw=true" alt="full stack dev" style="width: 100%; height: 60vh; object-fit: cover;" />
 
 
 <h1 >Hi there, I'm CHARLES XAVIER</h1>
